@@ -2,6 +2,7 @@
 🚀 **Fully Automated macOS Terminal Customization**  
 This script **automatically** sets up a **hacker-style terminal** with **Powerlevel10k**, **iTerm2**, **Gruvbox Dark theme**, and more.
 
+🥫 >>> https://www.youtube-nocookie.com/embed/wNQpDWLs4To?si=JG7YTJbP4Wx6LPpd <<< This guy helped me out heaps.
 ---
 
 ## **📌 Features**
@@ -63,11 +64,6 @@ Some iTerm2 settings must be manually adjusted:
 1. **iTerm2 → Preferences → Profiles → Colors**.
 2. Click **Color Presets…** (bottom-right).
 3. Choose **Gruvbox Dark**.
-
----
-
-## **📷 Preview**
-*(Add screenshots of the finished terminal setup here!)*
 
 ---
 
